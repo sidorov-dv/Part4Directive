@@ -1,0 +1,21 @@
+.white-text {
+    color: #fff;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li {
+    border: 2px solid green;
+    margin-bottom: 5px;
+    font-size: 40px;
+}
+
+p {
+    border: 2px solid blue;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
